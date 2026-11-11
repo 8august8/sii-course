@@ -2,7 +2,7 @@
 
 2026 年秋季学期
 
-- [课件](slides/) · 课程概述（01）、信息度量（02a–02c）、信息论选讲之一（03a–03b）、信息论选讲之二（04）
+- [课件](slides/) · 课程概述（01）、信息度量（02a–02c）、信息论选讲之一（03a–03b）、信息论选讲之二（04）、[率失真理论（05）](slides/Lect.05-率失真理论.pdf)、[最小描述长度（06a）](slides/Lect.06a-MDL.pdf)
 - [课堂小测](quizzes.md) · Quiz 01 按回忆记录，Quiz 02–06 据课堂投影照片转录，Quiz 07 据 11 月 11 日题面文本收录。
 
 ## 参考书目
@@ -23,4 +23,4 @@
 | Quiz 4 | 二元对称信道容量 | [Lecture 03a](slides/Lect.03a-信息论选讲之一.pdf) · PDF 第 16–18 页 | Cover & Thomas §7.1.4 |
 | Quiz 05 | 消息、码字与互信息 | [Lecture 03b](slides/Lect.03b-信息论选讲之一.pdf) · PDF 第 5–6、17–18 页（24–25、36–37） | Yeung §7.2–7.3；Cover & Thomas §7.5、§7.9 |
 | Quiz 06 | Kraft 不等式、最优前缀码 | [Lecture 04](slides/Lect.04-信息论选讲之二.pdf) · PDF 第 13–18、30–38 页 | Yeung §4.2；Cover & Thomas §5.2–5.3、§5.6、§5.8 |
-| Quiz 07 | 最小描述长度（MDL）、信源编码、信道编码与率失真 | — | Cover & Thomas §14.13（MDL）、第 5、7、10 章（编码与率失真） |
+| Quiz 07 | 最小描述长度（MDL）、信源编码、信道编码与率失真 | [Lecture 06a](slides/Lect.06a-MDL.pdf) · 第 30 页（MDL 原理）、第 34–37 页（两部分编码）；[Lecture 05](slides/Lect.05-率失真理论.pdf) · 第 9–14 页（率失真编码、函数与定理） | Cover & Thomas §14.13（MDL）、第 5、7、10 章（编码与率失真） |
