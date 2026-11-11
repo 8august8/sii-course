@@ -127,3 +127,9 @@ $$
 Conversely, given a set of codeword lengths that satisfy this inequality, there exists an instantaneous code with these word lengths.
 
 **(2)** Solve the problem of finding the prefix code with the minimum expected length.
+
+## Quiz 07
+
+1. 请简述 Minimum Description Length（MDL，最小描述长度）原理的核心思想；并说明粗两部分 MDL（crude two-part MDL）的目标优化表达式，解释每一项的物理含义。
+
+2. 请比较信源编码、信道编码、率失真、最小描述长（MDL）这几个理论。
