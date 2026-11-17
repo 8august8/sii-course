@@ -15,6 +15,7 @@
 | 04 | [CUDA 编程](slides/04-cuda-programming.pdf) |
 | 05 | [NPU 架构与 Ascend 编程](slides/05-ascend-programming.pdf) |
 | 06 | [机器学习编译](slides/06-ml-compilation.pdf) |
+| 07 | [大语言模型导论与通用优化](slides/07-introduction-llm.pdf) |
 
 ## 课堂小测
 
