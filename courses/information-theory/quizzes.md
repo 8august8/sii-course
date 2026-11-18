@@ -133,3 +133,21 @@ Conversely, given a set of codeword lengths that satisfy this inequality, there 
 1. 请简述 Minimum Description Length（MDL，最小描述长度）原理的核心思想；并说明粗两部分 MDL（crude two-part MDL）的目标优化表达式，解释每一项的物理含义。
 
 2. 请比较信源编码、信道编码、率失真、最小描述长（MDL）这几个理论。
+
+## Quiz 08
+
+证明 Fisher Information 的如下两种表示形式等价：
+
+$$
+I(\theta)
+= \mathbb{E}_{X\sim p_\theta}\!\left[s_\theta(X)^2\right]
+= -\mathbb{E}_{X\sim p_\theta}\!\left[
+\frac{\partial^2}{\partial\theta^2}\log p_\theta(X)
+\right].
+$$
+
+其中得分函数的定义为
+
+$$
+s_\theta(x)=\frac{\partial}{\partial\theta}\log p_\theta(x).
+$$
